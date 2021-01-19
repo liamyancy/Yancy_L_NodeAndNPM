@@ -1,0 +1,34 @@
+{
+  "name": "yancy_l_nodeandnpm",
+  "version": "1.0.0",
+  "description": "learning node and npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Hello from Node\"",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamyancy/Yancy_L_NodeAndNPM.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "git",
+    "github"
+  ],
+  "author": "LY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamyancy/Yancy_L_NodeAndNPM/issues"
+  },
+  "homepage": "https://github.com/liamyancy/Yancy_L_NodeAndNPM#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "mysql": "^2.18.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
